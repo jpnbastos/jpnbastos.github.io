@@ -13,11 +13,65 @@
     
     
     <item>
+      <title>Identifying bottlenecks in manufacturing systems using stochastic criticality analysis</title>
+      <link>https://jpnbastos.github.io/publication/fdl17/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://jpnbastos.github.io/publication/fdl17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compositional specification of functionality and timing of manufacturing systems</title>
+      <link>https://jpnbastos.github.io/publication/fdl16/</link>
+      <pubDate>Thu, 15 Sep 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://jpnbastos.github.io/publication/fdl16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mode-controlled data-flow modeling of real-time memory controllers</title>
+      <link>https://jpnbastos.github.io/publication/li/</link>
+      <pubDate>Wed, 09 Dec 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://jpnbastos.github.io/publication/li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modeling Resource Sharing using FSM-SADF</title>
       <link>https://jpnbastos.github.io/publication/memocode15/</link>
       <pubDate>Wed, 23 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://jpnbastos.github.io/publication/memocode15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xCPS : a tool to eXplore cyber physical systems</title>
+      <link>https://jpnbastos.github.io/publication/xcps/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:35 +0100</pubDate>
+      
+      <guid>https://jpnbastos.github.io/publication/xcps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xCPS : a tool to eXplore cyber physical systems (extended)</title>
+      <link>https://jpnbastos.github.io/publication/xcpsj/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:35 +0100</pubDate>
+      
+      <guid>https://jpnbastos.github.io/publication/xcpsj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing preemptive fixed priority scheduling of data flow graphs</title>
+      <link>https://jpnbastos.github.io/publication/lele/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:34 +0100</pubDate>
+      
+      <guid>https://jpnbastos.github.io/publication/lele/</guid>
       <description></description>
     </item>
     

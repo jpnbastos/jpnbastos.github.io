@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 23 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://jpnbastos.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>1</title>
       <link>https://jpnbastos.github.io/publication_types/1/</link>
-      <pubDate>Wed, 23 Sep 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
       <guid>https://jpnbastos.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://jpnbastos.github.io/publication_types/2/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:35 +0100</pubDate>
+      
+      <guid>https://jpnbastos.github.io/publication_types/2/</guid>
       <description></description>
     </item>
     
