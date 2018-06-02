@@ -8,7 +8,18 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://jpnbastos.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A publication title, such as title of a paper</title>
+      <link>https://jpnbastos.github.io/publication/memocode15/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://jpnbastos.github.io/publication/memocode15/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
